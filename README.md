@@ -1,5 +1,8 @@
 # PneuMesh Online Simulator
 
+The tool is freely available online; please open it on a web-browser (Google Chrome is recommended)
+https://morphing-matter-lab.github.io/pneumesh/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Installation
